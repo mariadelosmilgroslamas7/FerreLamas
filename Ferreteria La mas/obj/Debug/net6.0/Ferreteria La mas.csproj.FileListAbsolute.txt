@@ -1,0 +1,5 @@
+C:\Users\Milagros\source\repos\Ferreteria La mas\Ferreteria La mas\obj\Debug\net6.0\Ferreteria La mas.csproj.AssemblyReference.cache
+C:\Users\Milagros\source\repos\Ferreteria La mas\Ferreteria La mas\obj\Debug\net6.0\Ferreteria La mas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milagros\source\repos\Ferreteria La mas\Ferreteria La mas\obj\Debug\net6.0\Ferreteria La mas.AssemblyInfoInputs.cache
+C:\Users\Milagros\source\repos\Ferreteria La mas\Ferreteria La mas\obj\Debug\net6.0\Ferreteria La mas.AssemblyInfo.cs
+C:\Users\Milagros\source\repos\Ferreteria La mas\Ferreteria La mas\obj\Debug\net6.0\Ferreteria La mas.csproj.CoreCompileInputs.cache

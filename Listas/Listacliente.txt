@@ -1,0 +1,1 @@
+[{"idCliente":432,"nombreApellido":"rtrgsdgf","dni":54354,"direccion":"gsgf","telefono":54634,"correo":"jfdhfg"},{"idCliente":42,"nombreApellido":"Juan","dni":988,"direccion":"sAV mi","telefono":4567,"correo":"ggfgf"}]
